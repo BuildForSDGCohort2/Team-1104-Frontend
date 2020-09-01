@@ -1,6 +1,6 @@
 module.exports = {
   extends: ['stylelint-config-standard'],
   rules: {
-    'rule-empty-line-before': 'always'
+    'rule-empty-line-before': 'always-multi-line'
   }
 };
